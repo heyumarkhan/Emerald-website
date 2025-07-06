@@ -162,7 +162,7 @@ nav ul li a:hover {
     font-size: 4em;
     margin-bottom: 20px;
     line-height: 1.1;
-    color: var(--secondary-green); /* Green accent for headline */
+    color: var(--primary-green); /* Green accent for headline */
 }
 
 .hero-content p {
